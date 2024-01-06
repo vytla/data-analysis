@@ -8,4 +8,4 @@ Data comes from the UCI Machine Learning repository and was collected via a surv
 Following are the observations from Data Analysis.
 
 1. Overall 56.8% of total observations choose to accept the coupon
-![alt Overall Coupons Acceptance](./images/Overall_Acceptance.png)
+![alt Overall Coupons Acceptance](./images/Overall_Acceptance.png =150x150)
